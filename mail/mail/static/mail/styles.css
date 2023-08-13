@@ -1,0 +1,13 @@
+body {
+    margin-bottom: 15px;
+}
+
+textarea {
+    min-height: 400px;
+}
+
+.email-content {
+    border: 1px solid black;
+    padding: 10px;
+}
+
